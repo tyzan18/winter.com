@@ -4,8 +4,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const mensajeDiv = document.getElementById('mensaje');
     
     const messages = {
-        positive: "Me alegra que estés bien y recuerda que siempre estaré ahí para apoyarte en lo que quieras y decidas! ❤️",
-        negative: "Entiendo que estás pasando por un momento difícil. No te presiones demasiado, tómate las cosas con calma. Estoy aquí si necesitas hablar o simplemente desconectar. Todo mejora con el tiempo. 😊"
+        positive: "Si gustas siempre estare en lo que wue necesites , recuerda que eres una chica increíble, y si no existe nada perfecto, eres lo más cercano a esa palabra ❤️",
+        negative: "Entiendo que NO recuerda que vales muchísimo, y mereces muchísimo,yo desde la sombrita siempre te apoyare con todo el corazón 😊"
     };
     
     btnSi.addEventListener('click', function() {
@@ -43,3 +43,4 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+
