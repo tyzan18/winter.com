@@ -4,8 +4,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const mensajeDiv = document.getElementById('mensaje');
     
     const messages = {
-        positive: "Si gustas siempre estare en lo que wue necesites , recuerda que eres una chica increíble, y si no existe nada perfecto, eres lo más cercano a esa palabra ❤️",
-        negative: "Entiendo que NO recuerda que vales muchísimo, y mereces muchísimo,yo desde la sombrita siempre te apoyare con todo el corazón 😊"
+        positive: "Si gustas siempre estare en lo que que necesites , recuerda que eres una chica increíble, y si no existe nada perfecto, eres lo más cercano a esa palabra ❤️",
+        negative: "debes entender que aunque tengamos un mal pasado, no hay que dejarnos atar por el, si no que construir algo único y bonito, tqm"
     };
     
     btnSi.addEventListener('click', function() {
